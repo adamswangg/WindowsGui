@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenSize", "ScreenSize\Sc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinStrFunctions", "WinStrFunctions\WinStrFunctions.vcxproj", "{5426368C-73E8-4E64-9806-30C8942395EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWin", "HelloWin\HelloWin.vcxproj", "{B1919683-8A24-4DE6-BD61-B36A3FA08671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{5426368C-73E8-4E64-9806-30C8942395EF}.Debug|Win32.Build.0 = Debug|Win32
 		{5426368C-73E8-4E64-9806-30C8942395EF}.Release|Win32.ActiveCfg = Release|Win32
 		{5426368C-73E8-4E64-9806-30C8942395EF}.Release|Win32.Build.0 = Release|Win32
+		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Debug|Win32.Build.0 = Debug|Win32
+		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Release|Win32.ActiveCfg = Release|Win32
+		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
