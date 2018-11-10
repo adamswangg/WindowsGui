@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinStrFunctions", "WinStrFu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWin", "HelloWin\HelloWin.vcxproj", "{B1919683-8A24-4DE6-BD61-B36A3FA08671}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SysMets1", "SysMets1\SysMets1.vcxproj", "{5AA9DC1E-D93F-4F0D-B165-59D065C1A600}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Debug|Win32.Build.0 = Debug|Win32
 		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Release|Win32.ActiveCfg = Release|Win32
 		{B1919683-8A24-4DE6-BD61-B36A3FA08671}.Release|Win32.Build.0 = Release|Win32
+		{5AA9DC1E-D93F-4F0D-B165-59D065C1A600}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AA9DC1E-D93F-4F0D-B165-59D065C1A600}.Debug|Win32.Build.0 = Debug|Win32
+		{5AA9DC1E-D93F-4F0D-B165-59D065C1A600}.Release|Win32.ActiveCfg = Release|Win32
+		{5AA9DC1E-D93F-4F0D-B165-59D065C1A600}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
